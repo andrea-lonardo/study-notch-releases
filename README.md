@@ -21,10 +21,12 @@ StudyNotch needs macOS 14 or later, on Apple silicon or Intel.
 StudyNotch is not signed by Apple, so macOS stops a normal double-click the
 first time. You only have to do this once:
 
-- In Applications, **right-click StudyNotch and choose Open**, then Open again.
-- If macOS only offers "Done" or "Move to Trash" (macOS 15 and later), open
-  System Settings, go to Privacy & Security, scroll down and press **Open
-  Anyway** next to StudyNotch.
+1. Double-click StudyNotch in Applications. macOS will refuse.
+2. Click **Done** (not Move to Trash). Nothing is wrong with the app.
+3. Open System Settings, go to Privacy & Security, scroll down and press
+   **Open Anyway** next to StudyNotch, then confirm with Touch ID or your
+   password.
+4. Double-click StudyNotch again and click Open Anyway.
 
 Keep it in Applications, so it can update itself.
 
@@ -33,10 +35,9 @@ Keep it in Applications, so it can update itself.
 StudyNotch looks for a new version when it starts and once a day, by reading
 one small signed file from this page. It downloads and checks the new version
 first, and installs it only when you say so, never during a focus block. You
-can turn this off, or check by hand, in Settings > General > Updates.
+can turn this off, or check by hand, in Settings > About.
 
 ## Grades
 
 The Grades window and exam deadlines unlock with a licence file you receive
-separately. Double-click the file, or choose it in Settings > General >
-Licence. Everything else works without one.
+separately. Double-click the file, or choose it in Settings > About. Everything else works without one.
